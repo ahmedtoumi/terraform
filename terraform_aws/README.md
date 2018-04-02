@@ -27,3 +27,6 @@ I have added an output to see the pûblic IP affected to have access to web VPC 
 or you can use it to your ansible host configuration to prepare some playbooks.
 
 Finally don't forget to destroy all AWS VPCs ... because it's money spent ...
+```shell
+> terraform destroy
+```
